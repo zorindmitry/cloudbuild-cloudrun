@@ -1,6 +1,5 @@
 #---------------------------------------------------------------------------
 # Dockefile to build Docker Image with Apache WebServer running on Ubuntu
-# Copyleft (c) by Denis Astahov
 #---------------------------------------------------------------------------
 
 FROM ubuntu:21.04
