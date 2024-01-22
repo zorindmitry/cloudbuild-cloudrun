@@ -33,5 +33,5 @@ substitutions:
     _SERVICE_REGION   : us-central1
     _SERVICE_PROJECT  : zorindk-test-346314
     _SERVICE_NAME     : hello2
-    _DOCKER_REGISTRY  : docker-repo1
+    _DOCKER_REGISTRY  : docker-repo
     _DOCKER_IMAGENAME : myapp
